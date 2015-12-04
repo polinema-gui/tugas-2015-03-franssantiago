@@ -1,0 +1,22 @@
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\bin\Debug\tugas perulangan.exe
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\bin\Debug\tugas perulangan.pdb
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\bin\Debug\tugas perulangan.xml
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas_perulangan.Form1.resources
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas_perulangan.Resources.resources
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas perulangan.vbproj.GenerateResource.Cache
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas perulangan.exe
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas perulangan.xml
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas perulangan.pdb
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas_perulangan.problem_Bintang.resources
+C:\Users\NDOT\AppData\Local\Temporary Projects\tugas perulangan\obj\x86\Debug\tugas_perulangan.matrik_kalkulator.resources
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas perulangan.exe
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas perulangan.xml
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas perulangan.pdb
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas_perulangan.Form1.resources
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas_perulangan.matrik_kalkulator.resources
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas_perulangan.Resources.resources
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas_perulangan.problem_Bintang.resources
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\obj\x86\Debug\tugas perulangan.vbproj.GenerateResource.Cache
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\bin\Debug\tugas perulangan.exe
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\bin\Debug\tugas perulangan.pdb
+D:\Semester 3\pemrograman gui\Tugas GUI\tugas perulangan\tugas perulangan\bin\Debug\tugas perulangan.xml
